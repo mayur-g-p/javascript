@@ -11,3 +11,7 @@ accountCity= "bengaluru"
 
 console.log(accountId)
 console.table([accountId,accountEmail,accountPassword,accountCity])
+
+// const = to declare the const
+//and we prefer to used let instead of var
+//because of issue in block scope and functional scope
