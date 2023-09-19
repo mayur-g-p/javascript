@@ -29,3 +29,7 @@ console.log(typeof stringNumber);
 
 
 
+//************************operations***************************/
+console.log("**********")
+console.log(+true)
+console.log(+"")
